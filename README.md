@@ -49,7 +49,7 @@ Une application mobile et desktop complète développée pour **Minoterie Othman
 4. **Configurer l'application Flutter :**
     - Naviguer vers le répertoire du projet Flutter :
        ```bash
-       cd flutter_app
+       cd my_pfe-main
        ```
     - Installer les dépendances Flutter :
        ```bash
