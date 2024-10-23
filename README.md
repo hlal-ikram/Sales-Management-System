@@ -68,5 +68,3 @@ Une application mobile et desktop complète développée pour **Minoterie Othman
 **Pour les Vendeurs :**
  - Utiliser l'application mobile pour consulter les itinéraires assignés, ajouter des clients, passer des commandes et générer des factures.
 
-## 📝 Licence
-Ce projet est sous licence MIT.
